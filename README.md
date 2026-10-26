@@ -1,5 +1,7 @@
 <p align="center"><img src="assets/banner.svg" alt="RETRO GITHUB AGENT" width="100%" /></p>
 
+<p align="center"><img src="assets/banner.svg" alt="RETRO GITHUB AGENT" width="100%" /></p>
+
 # Retro GitHub Agent
 
 A retro-themed autonomous GitHub agent. Send a plain-English instruction to an **n8n webhook**, and the agent will **clone the target repo**, run **Claude Code CLI** against it, then **commit and push the results** back to GitHub — fully automated.
@@ -187,3 +189,7 @@ MIT
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 <p align="center"><sub>Built by <a href="https://github.com/sameermotwani17-cell">Sameer Motwani</a> · <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app">portfolio</a></sub></p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p align="center"><sub>Built by <a href="https://github.com/sameermotwani17-cell">Sameer Motwani</a> · <a href="https://xsofficialbrand.com">portfolio</a></sub></p>
