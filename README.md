@@ -1,14 +1,4 @@
-```
-╔════════════════════════════════════════════════════════════════╗
-║  ██████╗ ███████╗████████╗██████╗  ██████╗                    ║
-║  ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗                   ║
-║  ██████╔╝█████╗     ██║   ██████╔╝██║   ██║                   ║
-║  ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║                   ║
-║  ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝                   ║
-║  ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝                   ║
-║       >> GITHUB AGENT v1.0 // POWERED BY CLAUDE CODE <<       ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<p align="center"><img src="assets/banner.svg" alt="RETRO GITHUB AGENT" width="100%" /></p>
 
 # Retro GitHub Agent
 
@@ -193,3 +183,7 @@ retro_github-agent/
 ## License
 
 MIT
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p align="center"><sub>Built by <a href="https://github.com/sameermotwani17-cell">Sameer Motwani</a> · <a href="https://portfolio-sameermotwani17-cells-projects.vercel.app">portfolio</a></sub></p>
